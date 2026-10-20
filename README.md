@@ -20,3 +20,10 @@ En esta primera iteración se aborda el módulo transaccional base para la gesti
 ---
 
 ## 📂 Estructura del Repositorio
+
+## 🎨 Diseños y Prototipos (Figma)
+
+## 🎨 Diseños y Prototipos (Figma)
+
+Los mockups de la interfaz gráfica y el prototipo interactivo para las Historias de Usuario (HU01 a HU04) están disponibles en el siguiente enlace:
+- [Ver Mockups en Figma](https://www.figma.com/design/vnrwifWiJqRu8EKFX8DqQq/Autos-Colombia?node-id=4-1061&t=FC2i3TLswFlUk0Kw-0)
